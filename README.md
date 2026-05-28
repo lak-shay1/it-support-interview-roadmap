@@ -1,6 +1,6 @@
-# 30-Day IT Support + Systems Admin Speedrun
+# IT Support Interview Roadmap
 
-Interactive hour-by-hour roadmap for school and MSP IT support interviews. Covers Microsoft 365, Active Directory, networking, Intune, ticketing, documentation, and interview prep across 30 structured days.
+Interactive 30-day hour-by-hour roadmap for school and MSP IT support / systems admin interview prep. Use it as a self-paced study tracker with progress saved in your browser. Covers Microsoft 365, Active Directory, networking, Intune, ticketing, documentation, and interview prep across 30 structured days.
 
 ## Features
 
